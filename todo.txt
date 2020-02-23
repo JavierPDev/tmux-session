@@ -1,0 +1,2 @@
+-Create tmuxService with methods for setSession, renameSession, and hasInstalled
+-Integrate these new services into the main extension file
